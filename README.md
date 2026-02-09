@@ -493,60 +493,6 @@ pip install PyQt5
 
 ---
 
-## 📦 Dependencies
-
-### Backend (Python)
-```
-Django==4.2.7
-djangorestframework==3.14.0
-django-cors-headers==4.3.1
-pandas==2.1.3
-openpyxl==3.10.10
-reportlab==4.0.7
-PyQt5>=5.15.0
-requests>=2.31.0
-```
-
-### Frontend (Node.js)
-```
-react: ^18.2.0
-axios: ^1.6.0
-chart.js: ^4.4.0
-react-chartjs-2: ^5.2.0
-```
-
----
-
-## 🎓 Learning Outcomes
-
-This project demonstrates:
-- Full-stack development skills
-- RESTful API design and implementation
-- Frontend framework proficiency (React)
-- Desktop application development (PyQt5)
-- Database modeling and ORM usage
-- Authentication and security
-- Data processing with pandas
-- Data visualization techniques
-- Cross-platform development
-- Version control with Git
-
----
-
-## 👤 Author
-
-**Developer:** [Your Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Profile]
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙏 Acknowledgments
 
@@ -557,18 +503,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Stack Overflow community
 
 ---
-
-## 📞 Contact & Support
-
-For questions or support:
-- Open an issue on GitHub
-- Email: [your.email@example.com]
-- Documentation: See individual README files in subdirectories
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
----
-
-*Last Updated: February 2026*
